@@ -20,6 +20,7 @@ main {
     height: 700px;
     width: 125px;
     padding-top: 10px;
+    padding-left: 210px;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
